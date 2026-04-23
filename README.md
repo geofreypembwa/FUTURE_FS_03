@@ -6,7 +6,10 @@
 ## About
 This project is a professional business website built for **Campus Cafeteria**, a real local cafeteria located at **UDSM Main Campus, Dar es Salaam, Tanzania**.
 
-The website helps the business improve its online presence, display menu categories, support customer contact, and make ordering easier through phone and WhatsApp.
+The website helps the business improve its online presence, present meals and services clearly, support customer contact, and make ordering easier through phone and WhatsApp.
+
+Live Website:
+🔗 https://geofreypembwa.github.io/FUTURE_FS_03/
 
 ## Business Details
 - **Business Name:** Campus Cafeteria
@@ -20,14 +23,14 @@ The website helps the business improve its online presence, display menu categor
 - Hero section with call-to-action buttons
 - About section
 - Why Choose Us section
-- Featured menu highlights
+- Featured meal highlights
 - Menu categories
 - Delivery and ordering section
-- Image gallery
+- Real image gallery
 - Testimonials
 - Google Maps location
 - Contact section
-- WhatsApp contact form integration
+- WhatsApp form integration
 - Scroll reveal and text animation effects
 - Mobile-friendly navigation
 
